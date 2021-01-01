@@ -7,7 +7,7 @@ async def start(client, message):
     joinButton = InlineKeyboardMarkup([
         [InlineKeyboardButton("🔔 නාළිකාව", url="https://t.me/lkhitech")],
         [InlineKeyboardButton(
-            "😊සම්බන්ධ කරගන්න ", url="https://t.me/kavinduaj")]
+            "😊සම්බන්ධ කරගන්න ", url="https://t.me/kavinduaj")],
         [InlineKeyboardButton("🖥 ප්‍රවේශ වන්න 😊", url="https://visi.tk/kavinduaj")]
     ])
     welcomed = f"ආයුබෝවාන්🙏<b>{message.from_user.first_name}</b>\n/help වැඩි දුර තොරතුරැ"
