@@ -1,6 +1,6 @@
 import  os
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "1442247196:AAG4kTvUxmzJht5kKC021kagZQKe4Ntgllo")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "1491937538:AAH-lvY4Vj3hsaJ4RtP85GcWnMoadknFL5Y")
 APP_ID = int(os.environ.get("API_ID", 1383845))
 API_HASH = os.environ.get("API_HASH")
 
